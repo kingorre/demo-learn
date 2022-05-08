@@ -7,11 +7,4 @@ located on the local filesystem or on a remote machine via HTTP or SSH.
 
 List which files are staged, unstaged, and untracked
 
-more content
-more content
-
-
-more content
-more content
-
 ---------------------------------------------
