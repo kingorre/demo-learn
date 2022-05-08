@@ -5,6 +5,7 @@ located on the local filesystem or on a remote machine via HTTP or SSH.
 Clone repo located at <repo> onto local machine. Original repo can be
 located on the local filesystem or on a remote machine via HTTP or SSH.
 
+<<<<<<< HEAD
 List which files are staged, unstaged, and untracked
 
 more content
@@ -13,3 +14,6 @@ more content
 
 more content
 more content
+=======
+List which files are staged, unstaged, and untracked
+>>>>>>> 8d4c42cc38c307eef2e9be20870f675ca807306b
