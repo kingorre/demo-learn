@@ -3,23 +3,4 @@ located on the local filesystem or on a remote machine via HTTP or SSH.
 
 
 Clone repo located at <repo> onto local machine. Original repo can be
-located on the local filesystem or on a remote machine via HTTP or SSH.s
-
-
-Clone repo located at <repo> onto local machine. Original repo can be
 located on the local filesystem or on a remote machine via HTTP or SSH.
-
-Use a password-protected SSH key.
-
-Clone repo located at <repo> onto local machine. Original repo can be
-located on the local filesystem or on a remote machine via HTTP or SSH.
-
-
-Clone repo located at <repo> onto local machine. Original repo can be
-located on the local filesystem or on a remote machine via HTTP or SSH.s
-
-
-Clone repo located at <repo> onto local machine. Original repo can be
-located on the local filesystem or on a remote machine via HTTP or SSH.
-
-Use a password-protected SSH key.
